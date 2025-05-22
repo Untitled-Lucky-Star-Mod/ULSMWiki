@@ -30,6 +30,9 @@ nav a:hover {
 h1, h2, h3 {
     color: #000000;
 }
+.textheader {
+    color: #ffffff;
+}
 
 .container {
     width: 80%;
